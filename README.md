@@ -16,7 +16,8 @@ Plugin is designed to use a different WiFi interface than kismet uses not to int
 Plugin starts airodump-ng on a given channel to capture the handshake, performs deauth and keeps collecting for next
 10 seconds waiting for client to authenticate again.
 
-The plugin is based on [kismetclient] repo.
+The plugin is based on [kismetclient] repo. For more details take a look at the
+[blog](https://deadcode.me/blog/2016/11/05/Active-Deauth-Kismet-Wardriving.html).
 
 kismetclient
 ============
