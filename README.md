@@ -121,3 +121,16 @@ Kismet. It may also work on Python 2.6 and earlier versions of Kismet,
 but ymmv. Please open tickets for bugs using github.
 
 [kismetclient]: https://github.com/PaulMcMillan/kismetclient
+
+Donating
+========
+
+This implementation is an open source. If you like the code or you do find it useful please feel free to donate to the
+author whatever amount you would like by clicking on the paypal button below.
+And if you don't feel like donating, that's OK too.
+
+[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=XK6RLD768RGGJ&lc=SK&item_name=ph4r05&item_number=kismet%2ddeauth%2dwpa2%2dhandshake%2dplugin&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
+
+Bitcoin:
+
+![19MNw2vgnvymQK66AUEtCDpR3UPjnenqwj](https://deadcode.me/btc-kismet.png)<br />19MNw2vgnvymQK66AUEtCDpR3UPjnenqwj
